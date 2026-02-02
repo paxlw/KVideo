@@ -622,5 +622,1011 @@
         "group": "premium",
         "enabled": true,
         "priority": 22
-    }
+    },    
+  {
+    "id": "mahuazy",
+    "name": "麻花资源",
+    "baseUrl": "http://www.mhbaseUrl123.com/inc/ldg_baseUrl.php",    
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "123ku",
+    "name": "123 资源",
+    "baseUrl": "http://cj.123ku2.com:12315/inc/baseUrl.php",    
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "7K资源",
+    "name": "7K资源",
+    "baseUrl": "https://zy.7kjx.com/cjbaseUrl.php",    
+    "jiexiUrl": "default",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "1717云资源网",
+    "name": "1717云资源网",
+    "baseUrl": "http://zy.itono.cn/inc/baseUrl.php",    
+    "jiexiUrl": "https://www.1717yun.com/jiexi/?url=",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "subo988",
+    "name": "速播资源站",
+    "baseUrl": "https://www.subo988.com/inc/baseUrl.php",    
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "88zyw",
+    "name": "88 影视资源站",
+    "baseUrl": "http://www.88zyw.net/inc/baseUrl.php", 
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "zuidazy",
+    "name": "最大资源网",
+    "baseUrl": "http://www.zdziyuan.com/inc/ldg_sea.php",
+    "download": "http://www.zdziyuan.com/inc/baseUrldown.php",    
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "okzy",
+    "name": "OK 资源网",
+    "baseUrl": "http://cj.okzy.tv/inc/baseUrl.php",
+    "download": "http://cj.okzy.tv/inc/baseUrldown.php",    
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "kuyunzy",
+    "name": "酷云资源",
+    "baseUrl": "http://caiji.kuyun98.com/inc/ldg_baseUrl.php",
+    "download": "http://caiji.kuyun98.com/inc/baseUrldown.php",    
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "kubozy",
+    "name": "酷播资源",
+    "baseUrl": "http://baseUrl.kbzybaseUrl.com/inc/baseUrl.php",    
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "yongjiuzy",
+    "name": "永久资源",
+    "baseUrl": "http://cj.yongjiuzyw.com/inc/baseUrl.php",   
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "rrzy",
+    "name": "人人资源",
+    "baseUrl": "https://www.rrzyw.cc/baseUrl.php/provide/vod/from/rrm3u8/at/xml/",  
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "01",
+    "name": "123资源",
+    "baseUrl": "http://www.123ku.com/inc/baseUrl.php",
+    "enabled": true,
+    "group": "premium",
+    "priority": 10
+  },
+  {
+    "id": "03",
+    "name": "88资源",
+    "baseUrl": "http://www.88zyw.net/inc/baseUrl.php",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 14,
+    "priority": 10
+  },
+  {
+    "id": "04",
+    "name": "33uu资源",
+    "baseUrl": "http://www.209zy.net/inc/baseUrl.php",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 15,
+    "priority": 10
+  },
+  {
+    "id": "05",
+    "name": "1886资源",
+    "baseUrl": "http://cj.1886zy.co/inc/baseUrl.php",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 16,
+    "priority": 10
+  },
+  {
+    "id": "06",
+    "name": "快播资源",
+    "baseUrl": "http://www.kuaibozy.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 17,
+    "priority": 10
+  },
+  {
+    "id": "07",
+    "name": "麻雀资源",
+    "baseUrl": "http://baseUrl.maquezy.com/inc/baseUrl.php",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 18,
+    "priority": 10
+  },
+  {
+    "id": "08",
+    "name": "麻花资源",
+    "baseUrl": "https://www.mhbaseUrl123.com/inc/ldg_baseUrl_all.php",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 19,
+    "priority": 10
+  },
+  {
+    "id": "10",
+    "name": "八戒资源",
+    "baseUrl": "http://cj.bajiecaiji.com/inc/baseUrl.php",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 20,
+    "priority": 10
+  },
+  {
+    "id": "11",
+    "name": "最大资源",
+    "baseUrl": "http://www.zdziyuan.com/inc/baseUrl.php",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 21,
+    "priority": 10
+  },
+  {
+    "id": "12",
+    "name": "OK资源",
+    "baseUrl": "http://cj.okzy.tv/inc/baseUrl.php",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 22,
+    "priority": 10
+  },
+  {
+    "id": "16",
+    "name": "速播资源",
+    "baseUrl": "http://www.subo988.com/inc/baseUrl.php",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 23,
+    "priority": 10
+  },
+  {
+    "id": "17",
+    "name": "聚合资源",
+    "baseUrl": "https://cj.cbi88.com/inc/baseUrl_juhem3u8.php",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 24,
+    "priority": 10
+  },
+  {
+    "id": "18",
+    "name": "天空资源",
+    "baseUrl": "http://baseUrl.tiankongbaseUrl.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 25,
+    "priority": 10
+  },
+  {
+    "id": "21",
+    "name": "乐多资源",
+    "baseUrl": "http://www.leduozy.com/inc/seacmsbaseUrl.php",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 26,
+    "priority": 10
+  },
+  {
+    "id": "22",
+    "name": "穿梭资源",
+    "baseUrl": "http://ok.888hyk.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 27,
+    "priority": 10
+  },
+  {
+    "id": "23",
+    "name": "牛牛影院",
+    "baseUrl": "https://www.48da.net/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 28,
+    "priority": 10
+  },
+  {
+    "id": "24",
+    "name": "蚂蚁BT",
+    "baseUrl": "https://www.mayipbt.cc/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 29,
+    "priority": 10
+  },
+  {
+    "id": "25",
+    "name": "新奇遇电影",
+    "baseUrl": "https://www.newqiyu.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 30,
+    "priority": 10
+  },
+  {
+    "id": "26",
+    "name": "太初电影",
+    "baseUrl": "https://www.tcmove.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 31,
+    "priority": 10
+  },
+  {
+    "id": "30",
+    "name": "日剧啦",
+    "baseUrl": "https://www.rijula.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 32,
+    "priority": 10
+  },
+  {
+    "id": "31",
+    "name": "泰剧迷",
+    "baseUrl": "https://www.taijumi.cc/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 33,
+    "priority": 10
+  },
+  {
+    "id": "32",
+    "name": "免费影院",
+    "baseUrl": "http://www.ruiuri.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 34,
+    "priority": 10
+  },
+  {
+    "id": "34",
+    "name": "PZ影视",
+    "baseUrl": "https://puz.pub/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 35,
+    "priority": 10
+  },
+  {
+    "id": "35",
+    "name": "AWSLTV",
+    "baseUrl": "http://www.awsltv.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 36,
+    "priority": 10
+  },
+  {
+    "id": "37",
+    "name": "就要看电影",
+    "baseUrl": "https://www.jykdy.vip/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 37,
+    "priority": 10
+  },
+  {
+    "id": "38",
+    "name": "小虫追剧",
+    "baseUrl": "http://ixiazai.vip/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 38,
+    "priority": 10
+  },
+  {
+    "id": "41",
+    "name": "共青春影院",
+    "baseUrl": "http://gqcyy.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 39,
+    "priority": 10
+  },
+  {
+    "id": "42",
+    "name": "乐播电影网",
+    "baseUrl": "https://www.lebo.la/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 40,
+    "priority": 10
+  },
+  {
+    "id": "43",
+    "name": "逗看影视",
+    "baseUrl": "https://www.doukanzy.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 41,
+    "priority": 10
+  },
+  {
+    "id": "44",
+    "name": "尔东影视",
+    "baseUrl": "http://www.edysw.cn/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 42,
+    "priority": 10
+  },
+  {
+    "id": "45",
+    "name": "ADC电影网",
+    "baseUrl": "https://www.adcmove.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 43,
+    "priority": 10
+  },
+  {
+    "id": "46",
+    "name": "追剧吧",
+    "baseUrl": "http://www.huaxiab.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 44,
+    "priority": 10
+  },
+  {
+    "id": "47",
+    "name": "365影视",
+    "baseUrl": "http://video.365tx.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 45,
+    "priority": 10
+  },
+  {
+    "id": "48",
+    "name": "安逸影院",
+    "baseUrl": "http://dy.51isu.com:11801/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 46,
+    "priority": 10
+  },
+  {
+    "id": "49",
+    "name": "云豹影视",
+    "baseUrl": "https://scxytz.cn/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 47,
+    "priority": 10
+  },
+  {
+    "id": "50",
+    "name": "忆诗影视",
+    "baseUrl": "http://www.168ii.cn/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 48,
+    "priority": 10
+  },
+  {
+    "id": "51",
+    "name": "1024资源",
+    "baseUrl": "https://www.1024nf.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 49,
+    "priority": 10
+  },
+  {
+    "id": "52",
+    "name": "大地资源",
+    "baseUrl": "https://dadibaseUrl.com/baseUrl.php",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 50,
+    "priority": 10
+  },
+  {
+    "id": "53",
+    "name": "花椒资源",
+    "baseUrl": "https://baseUrlhjzy.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 51,
+    "priority": 10
+  },
+  {
+    "id": "55",
+    "name": "乐播资源",
+    "baseUrl": "https://lbbaseUrl9.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 52,
+    "priority": 10
+  },
+  {
+    "id": "57",
+    "name": "IXX资源",
+    "baseUrl": "http://baseUrl.iixxzybaseUrl.com/inc/baseUrl.php",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 53,
+    "priority": 10
+  },
+  {
+    "id": "60",
+    "name": "av888资源",
+    "baseUrl": "http://m.7777688.com/inc/baseUrl.php",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 54,
+    "priority": 10
+  },
+  {
+    "id": "67",
+    "name": "佳丽资源",
+    "baseUrl": "http://jialixx.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 55,
+    "priority": 10
+  },
+  {
+    "id": "69",
+    "name": "炮台资源",
+    "baseUrl": "http://ptcj.ptzycj.com/baseUrl.php/hyang/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 56,
+    "priority": 10
+  },
+  {
+    "id": "70",
+    "name": "番号资源",
+    "baseUrl": "http://fhbaseUrl9.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 57,
+    "priority": 10
+  },
+  {
+    "id": "71",
+    "name": "苍天资源",
+    "baseUrl": "http://cj.cangtiancj.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 58,
+    "priority": 10
+  },
+  {
+    "id": "72",
+    "name": "鲨鱼资源",
+    "baseUrl": "https://shayubaseUrl.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 59,
+    "priority": 10
+  },
+  {
+    "id": "74",
+    "name": "77资源",
+    "baseUrl": "https://www.77zyw.live/inc/baseUrl.php",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 60,
+    "priority": 10
+  },
+  {
+    "id": "75",
+    "name": "速度资源",
+    "baseUrl": "http://www.ggmmzy.com:9999/inc/xml",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 61,
+    "priority": 10
+  },
+  {
+    "id": "76",
+    "name": "优果资源",
+    "baseUrl": "https://www.ugvbaseUrl.com/inc/zybaseUrlmac.php",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 62,
+    "priority": 10
+  },
+  {
+    "id": "77",
+    "name": "独家资源",
+    "baseUrl": "http://dujiazy3.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 63,
+    "priority": 10
+  },
+  {
+    "id": "78",
+    "name": "92爱资源",
+    "baseUrl": "http://www.92aizy.com/baseUrl/macs.php",
+    "enabled": true,
+    "group": "premium",
+    "wuxiongma": 64,
+    "priority": 10
+  },
+  {
+    "wuxiongma": 65,
+    "id": "jiali",
+    "name": "佳丽 TV",
+    "baseUrl": "https://jialibaseUrl.com/baseUrl.php/provide/vod/at/xml/",
+    
+    "enabled": true,
+    "group": "福利",
+    "priority": 10
+  },
+  {
+    "wuxiongma": 66,
+    "id": "xhgcjym",
+    "name": "小黄瓜资源",
+    "baseUrl": "http://cj.xhgcjym.com/inc/baseUrl.php",
+    "download": "http://cj.xhgcjym.com/inc/baseUrldown.php",
+    "enabled": true,
+    "group": "福利",
+    "priority": 10
+  },
+  {
+    "wuxiongma": 67,
+    "id": "ixxzya",
+    "name": "IXX 资源",
+    "baseUrl": "http://baseUrl.iixxzybaseUrl.com/inc/baseUrl.php",
+    "download": "http://baseUrl.iixxzybaseUrl.com/inc/baseUrldown.php",
+    "enabled": true,
+    "group": "福利",
+    "priority": 10
+  },
+  {
+    "id": "dydyOa",
+    "wuxiongma": 68,
+    "name": "91特殊.大炮资源",
+    "baseUrl": "http://dgdy.me/baseUrl.php/provide/vod/at/xml/",
+    
+    "enabled": true,
+    "group": "福利",
+    "priority": 10
+  },
+  {
+    "wuxiongma": 69,
+    "id": "NhTLgM",
+    "name": "76特殊.色色",
+    "baseUrl": "http://m.7777688.com/inc/baseUrl.php",
+    "enabled": true,
+    "group": "福利",
+    "priority": 10
+  },
+  {
+    "wuxiongma": 70,
+    "id": "LYCe0z",
+    "name": "78特殊.乐播",
+    "baseUrl": "https://lbbaseUrl9.com/baseUrl.php/provide/vod/at/xml/",    
+    "enabled": true,
+    "group": "福利",
+    "priority": 10
+  },
+  {
+    "wuxiongma": 71,
+    "id": "Iy0Jlq",
+    "name": "79特殊.苍天",
+    "baseUrl": "http://cj.cangtiancj.com/baseUrl.php/Seacms/vod/",    
+    "enabled": true,
+    "group": "福利",
+    "priority": 10
+  },
+  {
+    "id": "4btciy",
+    "wuxiongma": 72,
+    "name": "84特殊.鲨鱼资源",
+    "baseUrl": "https://shayubaseUrl.com/baseUrl.php/provide/vod/at/xml/",    
+    "enabled": true,
+    "group": "福利",
+    "priority": 10
+  },
+  {
+    "id": "qz492Y",
+    "wuxiongma": 73,
+    "name": "86特殊.七七资源",
+    "baseUrl": "https://www.77zyw.xyz/inc/baseUrl.php",    
+    "enabled": true,
+    "group": "福利",
+    "priority": 10
+  },
+  {
+    "id": "vJQZTA",
+    "wuxiongma": 74,
+    "name": "92特殊.独家资源",
+    "baseUrl": "http://dujiazy3.com/baseUrl.php/provide/vod/at/xml/",    
+    "enabled": true,
+    "group": "福利",
+    "priority": 10
+  },
+  {
+    "id": "FyxUS8",
+    "wuxiongma": 75,
+    "name": "95特殊.35资源",
+    "baseUrl": "http://cj.35zycj.com/inc/zybaseUrlmac.php",    
+    "enabled": true,
+    "group": "福利",
+    "priority": 10
+  },
+  {
+    "id": "RRvupO",
+    "wuxiongma": 76,
+    "name": "96特殊.av88资源",
+    "baseUrl": "http://m.7777688.com/inc/baseUrl.php",    
+    "enabled": true,
+    "group": "福利",
+    "priority": 10
+  },
+  {
+    "wuxiongma": 77,
+    "id": "77ziyuan",
+    "name": "77资源",
+    "baseUrl": "https://www.77zyw.xyz/inc/seacmsbaseUrl.php",    
+    "enabled": true,
+    "group": "福利",
+    "priority": 10
+  },
+  {
+    "wuxiongma": 78,
+    "id": "1886zy",
+    "name": "1886 资源",
+    "baseUrl": "http://cj.1886zy.co/inc/baseUrl.php",        
+    "group": "normal",
+    "enabled": false,
+    "priority": "44"
+  },
+  {
+    "id": "mbo",
+    "wuxiongma": 79,
+    "name": "秒播资源",
+    "baseUrl": "http://caiji.mb77.vip/inc/seacmsbaseUrl.php",   
+    "group": "normal",
+    "enabled": false,
+    "priority": "44"
+  },
+  {
+    "wuxiongma": 80,
+    "id": "baseUrlbdzy",
+    "name": "百度云资源",
+    "baseUrl": "https://baseUrl.baseUrlbdzy.com/baseUrl.php/provide/vod/at/xml",  
+    "group": "normal",
+    "enabled": false,
+    "priority": "44"
+  },
+  {
+    "wuxiongma": 81,
+    "id": "bbkdj",
+    "name": "步步高顶尖资源网",
+    "baseUrl": "http://baseUrl.bbkdj.com/baseUrl",  
+    "group": "normal",
+    "enabled": false,
+    "priority": "44"
+  },
+  {
+    "wuxiongma": 82,
+    "id": "zuixinzy",
+    "name": "最新资源",
+    "baseUrl": "http://baseUrl.zuixinbaseUrl.com/inc/baseUrl.php",
+    "group": "normal",
+    "enabled": false,
+    "priority": "44"
+  },
+  {
+    "wuxiongma": 83,
+    "id": "209zy",
+    "name": "209 资源",
+    "baseUrl": "http://cj.1156zy.com/inc/baseUrl.php", 
+    "group": "normal",
+    "enabled": false,
+    "priority": "44"
+  },
+  {
+    "id": "02",
+    "name": "605资源",
+    "baseUrl": "http://www.605zy.co/inc/baseUrl.php",
+    "enabled": false,
+    "group": "premium",
+    "wuxiongma": 84,
+    "priority": "44"
+  },
+  {
+    "id": "19",
+    "name": "百度云资源",
+    "baseUrl": "https://baseUrl.baseUrlbdzy.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": false,
+    "group": "premium",
+    "wuxiongma": 85,
+    "priority": "44"
+  },
+  {
+    "id": "20",
+    "name": "帝国资源",
+    "baseUrl": "http://www.yszydg.com/inc/baseUrl.php",
+    "enabled": false,
+    "group": "premium",
+    "wuxiongma": 86,
+    "priority": "44"
+  },
+  {
+    "id": "27",
+    "name": "人人影院",
+    "baseUrl": "https://www.rryy99.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": false,
+    "group": "premium",
+    "wuxiongma": 87,
+    "priority": "44"
+  },
+  {
+    "id": "28",
+    "name": "HD影院",
+    "baseUrl": "http://www.ihdtvw.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": false,
+    "group": "premium",
+    "wuxiongma": 88,
+    "priority": "44"
+  },
+  {
+    "id": "29",
+    "name": "神马电影网",
+    "baseUrl": "https://52gbyy.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": false,
+    "group": "premium",
+    "wuxiongma": 89,
+    "priority": "44"
+  },
+  {
+    "id": "33",
+    "name": "天天影视网",
+    "baseUrl": "http://www.tiantysw.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": false,
+    "group": "premium",
+    "wuxiongma": 90,
+    "priority": "44"
+  },
+  {
+    "id": "36",
+    "name": "39影视",
+    "baseUrl": "https://www.39kan.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": false,
+    "group": "premium",
+    "wuxiongma": 91,
+    "priority": "44"
+  },
+  {
+    "id": "39",
+    "name": "爱看电影",
+    "baseUrl": "http://www.ikanmv.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": false,
+    "group": "premium",
+    "wuxiongma": 92,
+    "priority": "44"
+  },
+  {
+    "id": "40",
+    "name": "奇乐电影网",
+    "baseUrl": "http://www.1qile.com/inc/baseUrl.php",
+    "enabled": false,
+    "group": "premium",
+    "wuxiongma": 93,
+    "priority": "44"
+  },
+  {
+    "id": "54",
+    "name": "辣椒资源",
+    "baseUrl": "http://baseUrl.11bat.com/mac10.php",
+    "enabled": false,
+    "group": "premium",
+    "wuxiongma": 94,
+    "priority": "44"
+  },
+  {
+    "id": "56",
+    "name": "博天堂",
+    "baseUrl": "http://bttcj.com/inc/sbaseUrl.php",
+    "enabled": false,
+    "group": "premium",
+    "wuxiongma": 95,
+    "priority": "44"
+  },
+  {
+    "id": "58",
+    "name": "环亚资源",
+    "baseUrl": "http://wmcj8.com/inc/sbaseUrl.php",
+    "enabled": false,
+    "group": "premium",
+    "wuxiongma": 96,
+    "priority": "44"
+  },
+  {
+    "id": "59",
+    "name": "JAV名优",
+    "baseUrl": "http://mygzycj.com/baseUrl.php",
+    "enabled": false,
+    "group": "premium",
+    "wuxiongma": 97,
+    "priority": "44"
+  },
+  {
+    "id": "61",
+    "name": "玖玖资源",
+    "baseUrl": "http://99zywcj.com/inc/ck.php",
+    "enabled": false,
+    "group": "premium",
+    "wuxiongma": 98,
+    "priority": "44"
+  },
+  {
+    "id": "62",
+    "name": "撸死你资源",
+    "baseUrl": "http://lsnzxcj.com/inc/sbaseUrl.php",
+    "enabled": false,
+    "group": "premium",
+    "wuxiongma": 99,
+    "priority": "44"
+  },
+  {
+    "id": "63",
+    "name": "富二代资源",
+    "baseUrl": "http://f2dcj6.com/baseUrl",
+    "enabled": false,
+    "group": "premium",
+    "wuxiongma": 100,
+    "priority": "44"
+  },
+  {
+    "id": "64",
+    "name": "字幕网",
+    "baseUrl": "http://zmcj88.com/baseUrl",
+    "enabled": false,
+    "group": "premium",
+    "wuxiongma": 101,
+    "priority": "44"
+  },
+  {
+    "id": "65",
+    "name": "久草资源",
+    "baseUrl": "http://jcspcj8.com/baseUrl",
+    "enabled": false,
+    "group": "premium",
+    "wuxiongma": 102,
+    "priority": "44"
+  },
+  {
+    "id": "66",
+    "name": "利来资源",
+    "baseUrl": "http://llzxcj.com/inc/ck.php",
+    "enabled": false,
+    "group": "premium",
+    "wuxiongma": 103,
+    "priority": "44"
+  },
+  {
+    "id": "68",
+    "name": "快活资源",
+    "baseUrl": "https://www.khzybaseUrl.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": false,
+    "group": "premium",
+    "wuxiongma": 104,
+    "priority": "44"
+  },
+  {
+    "id": "73",
+    "name": "狼少年",
+    "baseUrl": "http://cjmygzy.com/inc/baseUrl.php",
+    "enabled": false,
+    "group": "premium",
+    "wuxiongma": 105,
+    "priority": "44"
+  },
+  {
+    "wuxiongma": 106,
+    "id": "8090zy",
+    "name": "8090资源网",
+    "baseUrl": "http://zy.yilans.net/baseUrl.php/provide/vod/at/xml/",
+    "enabled": false,
+    "group": "福利",
+    "priority": "44"
+  },
+  {
+    "wuxiongma": 107,
+    "id": "rerezy",
+    "name": "热热资源",
+    "baseUrl": "http://baseUrl.rerebaseUrl.com/inc/baseUrl.php",
+    "enabled": false,
+    "group": "福利",
+    "priority": "44"
+  },
+  {
+    "id": "1WeZ6q",
+    "wuxiongma": 108,
+    "name": "83特殊.xxoo",
+    "baseUrl": "https://www.xxohub3.com/baseUrl.php/provide/vod/at/xml/",
+    "enabled": false,
+    "group": "福利",
+    "priority": "44"
+  },
+  {
+    "wuxiongma": 109,
+    "id": "khzy",
+    "name": "快活资源站",
+    "baseUrl": "https://www.khzybaseUrl.com/baseUrl.php/provide/vod/at/xml/",
+    
+    "enabled": false,
+    "group": "福利",
+    "priority": "44"
+  },
+  {
+    "id": "Tuyoxk",
+    "wuxiongma": 110,
+    "name": "90特殊.三合资源",
+    "baseUrl": "https://www.3heyingshi.com/baseUrl.php/provide/vod/at/xml/",
+    
+    "enabled": false,
+    "group": "福利",
+    "priority": "44"
+  },
+  {
+    "id": "WC3h0o",
+    "wuxiongma": 111,
+    "name": "93特殊.玉米资源",
+    "baseUrl": "http://baseUrl.cj644.com/inc/zybaseUrlmac.php",  
+    "enabled": false,
+    "group": "福利",
+    "priority": "44"
+  },
+  {
+    "id": "77raVf",
+    "wuxiongma": 112,
+    "name": "80特殊.云霸资源",
+    "baseUrl": "http://cj.1234567bt.com/inc/ldg_sea.php",
+    "enabled": false,
+    "group": "福利",
+    "priority": "44"
+  }
 ]
